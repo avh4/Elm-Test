@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
-    "summary": "temporary fork of deadfoxygrandpa/Elm-Test for Elm 0.16",
+    "version": "1.0.3",
+    "summary": "DEPRECATED: Use deadfoxygrandpa/elm-test instead",
     "repository": "https://github.com/avh4/elm-test.git",
     "license": "MIT",
     "source-directories": [
